@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\venvs\\mysite\\Scripts\\python.exe",
+    "prettier.disableLanguages": [
+        "html"
+    ],
+    "html.format.enable": false
+}
